@@ -1,0 +1,24 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "Project to learn Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqutadir/webpack-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maqutadir/webpack-project/issues"
+  },
+  "homepage": "https://github.com/maqutadir/webpack-project#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
